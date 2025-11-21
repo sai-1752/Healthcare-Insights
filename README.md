@@ -107,7 +107,7 @@ Chittoor, AP, India
 
 ## 🏆 Project Highlights
 
-- portfolio-ready design
+- Portfolio-ready design
 - Indian healthcare context with global best practices
 - Ready for presentations, interviews, and deployment
 
