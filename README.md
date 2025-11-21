@@ -4,6 +4,8 @@
 
 Welcome to the Healthcare Insights Dashboard—your all-in-one business intelligence solution for hospitals, clinics, and healthcare administrators. This dashboard transforms complex patient, clinical, and financial data into clear, actionable intelligence using Power BI's most modern and impactful design techniques.
 
+![My image](Home_page.png)
+
 ---
 
 ## 📌 Problem Statement
